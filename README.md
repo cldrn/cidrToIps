@@ -5,6 +5,7 @@ Posted this script because I got tired of re-writing the same script everytime I
 
 Usage: ./cidrToIps.py -i <inputfile>
 
+~~~~
 $ cat cidr-list.txt
 192.168.0.1/29
 192.168.1.1/30
@@ -22,6 +23,8 @@ Reading IP ranges in CIDR notation from file: cidr-list.txt
 192.168.1.1
 192.168.1.2
 192.168.1.3
+
+~~~~
 
 calderon@websec.mx
 
